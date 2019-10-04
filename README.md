@@ -1,2 +1,9 @@
 # Markdown_Cheatsheet
-The basics that you'll need to make a killer README
+## Links
+Type this
+
+```[this is the text](http://www.google.com)```
+
+get this
+
+[this is the text](http://www.google.com)
