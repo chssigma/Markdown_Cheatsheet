@@ -112,6 +112,14 @@ Get this:
 
 ## Youtube
 
+You can't embed videos in GitHub, but this is neat workaround.  Grab the video thumbnail and make a link.  Type this:
+
+`[![My favorite video](https://img.youtube.com/vi/wZZ7oFKsKzY/0.jpg)](https://www.youtube.com/watch?v=wZZ7oFKsKzY)`
+
+Get this:
+
+[![My favorite video](https://img.youtube.com/vi/wZZ7oFKsKzY/0.jpg)](https://www.youtube.com/watch?v=wZZ7oFKsKzY)
+
 ## Tables
 
 Type this:
