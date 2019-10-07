@@ -1,9 +1,13 @@
 # Markdown_Cheatsheet
 ## Links
-Type this
+Type this:
 
-```[this is the text](http://www.google.com)```
+```[The text I want you to click](http://www.google.com)```
 
-get this
+Get this:
 
-[this is the text](http://www.google.com)
+[The text I want you to click](http://www.google.com)
+
+## Images
+If you don't need to resize, type this:
+
