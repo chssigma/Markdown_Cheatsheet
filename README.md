@@ -44,6 +44,8 @@ Combined emphasis with **asterisks and _underscores_**.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
 
+## Lists 
+
 Type this:
 
 ```
@@ -57,6 +59,30 @@ Get this:
 * Item 1
 * Item 2
 * Item 3
+
+# Code
+
+Type this:
+
+```Inline `code` has `back-ticks around` it.```
+
+Get this:
+
+Inline `code` has `back-ticks around` it.
+
+For blocks of code, type this:
+
+    ```python
+    s = "Python syntax highlighting"
+    print(s)
+    ```
+
+Get this:
+
+```python
+s = "Python syntax highlighting"
+print(s)
+```
 
 ## Links
 Type this:
