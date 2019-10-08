@@ -3,6 +3,7 @@
 Type this:
 
 ```
+* [Table of Contents](#table-of-contents)
 * [Headers](#Headers)
 * [Formatting](#Formatting)
 * [Lists](#Lists)
@@ -14,6 +15,7 @@ Type this:
 ```
 Get this:
 
+* [Table of Contents](#table-of-contents)
 * [Headers](#Headers)
 * [Formatting](#Formatting)
 * [Lists](#Lists)
