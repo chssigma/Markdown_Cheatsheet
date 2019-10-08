@@ -1,4 +1,14 @@
 # Markdown_Cheatsheet
+
+* [Headers](#Headers)
+* [Formatting](#Formatting)
+* [Lists](#Lists)
+* [Code](#Code)
+* [Links](#Links)
+* [Images](#Images)
+* [YouTube](#YouTube)
+* [Tables](#Tables)
+
 ## Headers
 
 Type this:
@@ -60,7 +70,7 @@ Get this:
 * Item 2
 * Item 3
 
-# Code
+## Code
 
 Type this:
 
