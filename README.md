@@ -1,5 +1,19 @@
 ## Table of Contents
 
+Type this:
+
+```
+* [Headers](#Headers)
+* [Formatting](#Formatting)
+* [Lists](#Lists)
+* [Code](#Code)
+* [Links](#Links)
+* [Images](#Images)
+* [YouTube](#YouTube)
+* [Tables](#Tables)
+```
+Get this:
+
 * [Headers](#Headers)
 * [Formatting](#Formatting)
 * [Lists](#Lists)
