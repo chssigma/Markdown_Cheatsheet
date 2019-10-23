@@ -130,11 +130,11 @@ Get this:
 
 If you need to resize, type this:
 
-```<img src="media/github-octocat_150x100.jpg" width="75">```
+```<img src="media/octocat.jpg" width="75">```
 
 Get this:
 
-<img src="media/github-octocat_150x100.jpg" width="75">
+<img src="media/octocat.jpg" width="75">
 
 ## Youtube
 
