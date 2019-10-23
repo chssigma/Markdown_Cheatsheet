@@ -122,11 +122,11 @@ Get this:
 ## Images
 If you don't need to resize, type this:
 
-```![GitHub Octocat](media/github-octocat_150x100.jpg)```
+```![GitHub Octocat](media/octocat.jpg)```
 
 Get this:
 
-![GitHub Octocat](media/github-octocat_150x100.jpg)
+![GitHub Octocat](media/octocat.jpg)
 
 If you need to resize, type this:
 
