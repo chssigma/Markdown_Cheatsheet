@@ -136,6 +136,22 @@ Get this:
 
 <img src="media/octocat.jpg" width="75">
 
+If you care, the above can be done with hover text:
+
+```![GitHub Octocat](media/octocat.jpg "Big Octocat")```
+
+Get this:
+
+![GitHub Octocat](media/octocat.jpg "Big Octocat")
+
+If you need to resize, type this:
+
+```<img src="media/octocat.jpg" width="75" title="Aw... cute little Octocat">```
+
+Get this:
+
+<img src="media/octocat.jpg" width="75" title="Aw... cute little Octocat">
+
 ## Youtube
 
 You can't embed videos in GitHub, but this is neat workaround.  Grab the video thumbnail and make a link.  Type this:
